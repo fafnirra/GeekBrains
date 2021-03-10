@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hsM+t1xu11Fri0MN8KqBf6mUYrFxyN4JAVdiFGAnZd9h/FgLcwPpSD11vC7jeyjkrjAUwM4ZcZjraO3CH9pIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Detrit\\Desktop\\C#Base\\GeekBrains\\Lesson1Base\\Lesson1Base_Task2_Lukovskaya\\Lesson1Base_Task2_Lukovskaya\\Lesson1Base_Task2_Lukovskaya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Detrit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

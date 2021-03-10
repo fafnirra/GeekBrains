@@ -1,0 +1,13 @@
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.exe
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.deps.json
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.runtimeconfig.json
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.runtimeconfig.dev.json
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.dll
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\bin\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.pdb
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.csprojAssemblyReference.cache
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.AssemblyInfoInputs.cache
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.AssemblyInfo.cs
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.csproj.CoreCompileInputs.cache
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.dll
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.pdb
+C:\Users\Detrit\Desktop\C#Base\GeekBrains\Lesson1Base\Lesson1Base_Task2_Lukovskaya\Lesson1Base_Task2_Lukovskaya\obj\Debug\netcoreapp3.1\Lesson1Base_Task2_Lukovskaya.genruntimeconfig.cache
